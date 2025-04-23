@@ -5,6 +5,7 @@ public class LinesOfCode {
 
 	public static void main(String[] args) {
 		System.out.println("Before Commit");
+		System.out.println("After Commit 1");
 	}
 
 }
